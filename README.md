@@ -1,2 +1,42 @@
-# C
-C-Programming [Learning Material]
+# C-Programming [Learning Materials]
+
+**Contact Email:** c.khwopa@gmail.com or computer.khwopa@gmail.com
+
+Computer Programming **Notes**
+- Chapter 1: Overview of Computer Software & Programming Languages
+- Chapter 2: Problem Solving Using Computer
+- Chapter 3: Introduction to C Programming
+- Chapter 4: Input and Output
+- Chapter 5: Control Statements
+- Chapter 6: User-Defined Functions
+- Chapter 7: Arrays and Strings
+- Chapter 8: Structures
+- Chapter 9: Pointers
+- Chapter 10: Data Files
+- Chapter 11: Programming Language: FORTRAN
+
+Computer Programming **Tutorials**
+- Tutorial#1
+- Tutorial#2
+- Tutorial#3
+
+Computer Programming **Labsheets**
+- [Labsheet#1 (Light Version)](https://github.com/KCE/C/blob/master/Labsheet_1_v2.pdf)
+- [C Labsheets (All)](https://github.com/KCE/C/blob/master/C_Labsheets_1_9.pdf)
+
+**Mini-Project**
+- [Project Proposal Format](https://drive.google.com/file/d/11KNobMxoK8ZKB7KVQtDs2XODqlxrJpbb/view?usp=sharing)
+- Mini-Project Proposal Defense Date & Team Detail
+- Project Name & Team Member
+- Mini-Project Proposal Defense - Marks
+- [Project Report Format](https://drive.google.com/file/d/1EdgNBNvSogAdGpSETENOCaqPf_zmEEuv/view?usp=sharing)
+
+**Miscellaneous**
+- [C Syllabus](https://github.com/KCE/C/blob/master/C_Programming_Syllabus.pdf)
+- C Programming Question Bank
+- First Assessment Result
+- [C Language Video Tutorials - Mr. Srinivas](https://www.youtube.com/watch?v=si-KFFOW2gw&list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh)
+- [Online C Compiler](https://www.tutorialspoint.com/compile_c_online.php)
+- [FORTAN Compiler](https://github.com/KhCE/C/blob/master/FORTAN_COMPILER_force209g77.zip)
+- Data Files Program Questions
+- Final Internal Marks of C-Programming
