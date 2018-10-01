@@ -21,8 +21,15 @@ Computer Programming **Tutorials**
 - Tutorial#3
 
 Computer Programming **Labsheets**
-- [Labsheet#1 (Light Version)](https://github.com/KCE/C/blob/master/Labsheet_1_v2.pdf)
-- [C Labsheets (All)](https://github.com/KCE/C/blob/master/C_Labsheets_1_9.pdf)
+- [Labsheet#1 & #2](https://github.com/KCE/C/blob/master/Labsheet_1_2.pdf)
+- Labsheet#3
+- Labsheet#4
+- Labsheet#5
+- Labsheet#6
+- Labsheet#7
+- Labsheet#8
+- Labsheet#9
+- Labsheet#10
 
 **Mini-Project**
 - [Project Proposal Format](https://drive.google.com/file/d/11KNobMxoK8ZKB7KVQtDs2XODqlxrJpbb/view?usp=sharing)
