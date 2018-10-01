@@ -44,7 +44,7 @@ Computer Programming **Labsheets**
 - First Assessment Result
 - [C Language Video Tutorials - Mr. Srinivas](https://www.youtube.com/watch?v=si-KFFOW2gw&list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh)
 - [Online C Compiler](https://www.tutorialspoint.com/compile_c_online.php)
-- C Compiler
-- FORTAN Compiler
+- [C Compiler](https://drive.google.com/file/d/1-eYRHzm8VQVWHH7hs-ZxZ7iWLxC0jY6F/view?usp=sharing)
+- [FORTAN Compiler](https://drive.google.com/file/d/1B4kzcTUbM60qSxlhalj8kbIxItseH4H2/view?usp=sharing)
 - Data Files Program Questions
 - Final Internal Marks of C-Programming
