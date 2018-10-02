@@ -21,7 +21,10 @@ Computer Programming **Tutorials**
 - Tutorial#3
 
 Computer Programming **Labsheets**
-- [Labsheet#1 & #2](https://github.com/KCE/C/blob/master/Labsheet_1_2.pdf)
+- [Lab Instructions](https://github.com/KCE/C/blob/master/Lab_Instructions.pdf)
+- [Cover Page of Lab Report](https://github.com/KCE/C/blob/master/Cover_Page_of_Lab_Report.pdf)
+- [Labsheet#1](https://github.com/KCE/C/blob/master/Labsheet_1.pdf)
+- [Labsheet#2](https://github.com/KCE/C/blob/master/Labsheet_2.pdf)
 - Labsheet#3
 - Labsheet#4
 - Labsheet#5
