@@ -2,6 +2,12 @@
 
 **Contact Email:** c.khwopa@gmail.com or computer.khwopa@gmail.com
 
+Lecturer **Slides**
+- [Introduction to BCT](https://github.com/KCE/C/blob/master/BCT_Computer_Engineering.pdf)
+- [Introduction to BEL](https://github.com/KCE/C/blob/master/BEL_Electrical_Engineering.pdf)
+- [Intoduction to C (Basic Touch)](https://github.com/KCE/C/blob/master/Introduction_to_C_Programming.pdf)
+- [Short History of Computing](https://github.com/KCE/C/blob/master/Short_History_of_Computing.pdf)
+
 Computer Programming **Notes**
 - Chapter 1: Overview of Computer Software & Programming Languages
 - Chapter 2: Problem Solving Using Computer
