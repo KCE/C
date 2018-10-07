@@ -41,6 +41,7 @@ Computer Programming **Labsheets**
 - Labsheet#10
 
 **Mini-Project**
+- [Select Project Titles](https://github.com/KCE/C/issues/7)
 - [Project Proposal Format](https://drive.google.com/file/d/11KNobMxoK8ZKB7KVQtDs2XODqlxrJpbb/view?usp=sharing)
 - Mini-Project Proposal Defense Date & Team Detail
 - Project Name & Team Member
