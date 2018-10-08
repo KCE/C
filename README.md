@@ -7,6 +7,7 @@ Lecturer **Slides**
 - [Introduction to BEL](https://github.com/KCE/C/blob/master/BEL_Electrical_Engineering.pdf)
 - [Intoduction to C (Basic Touch)](https://github.com/KCE/C/blob/master/Introduction_to_C_Programming.pdf)
 - [Short History of Computing](https://github.com/KCE/C/blob/master/Short_History_of_Computing.pdf)
+- [Slide - Chapter 1](https://github.com/KCE/C/blob/master/Ch1_Overview_of_Computer_Software_and_Programming_Language.pdf)
 
 Computer Programming **Notes**
 - Chapter 1: Overview of Computer Software & Programming Languages
