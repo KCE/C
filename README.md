@@ -22,10 +22,11 @@ Computer Programming **Notes**
 - Chapter 10: Data Files
 - Chapter 11: Programming Language: FORTRAN
 
-Computer Programming **Tutorials**
-- Tutorial#1
-- Tutorial#2
-- Tutorial#3
+Computer Programming **Assignments**
+- [Assignment#1](https://github.com/KCE/C/blob/master/Assignment_1.pdf)
+- Assignment#2
+- Assignment#3
+- Assignment#4
 
 Computer Programming **Labsheets**
 - [Lab Instructions](https://github.com/KCE/C/blob/master/Lab_Instructions.pdf)
