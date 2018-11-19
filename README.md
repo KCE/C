@@ -33,7 +33,7 @@ Computer Programming **Labsheets**
 - [Cover Page of Lab Report](https://github.com/KCE/C/blob/master/Cover_Page_of_Lab_Report.pdf)
 - [Labsheet#1](https://github.com/KCE/C/blob/master/Labsheet_1.pdf)
 - [Labsheet#2](https://github.com/KCE/C/blob/master/Labsheet_2.pdf)
-- Labsheet#3
+- [Labsheet#3](https://github.com/KCE/C/blob/master/Labsheet_3.pdf)
 - Labsheet#4
 - Labsheet#5
 - Labsheet#6
