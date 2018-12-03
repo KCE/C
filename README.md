@@ -46,8 +46,9 @@ Computer Programming **Labsheets**
 **Mini-Project**
 - [Select Project Titles](https://github.com/KCE/C/issues/7)
 - [Project Proposal Format](https://drive.google.com/file/d/11KNobMxoK8ZKB7KVQtDs2XODqlxrJpbb/view?usp=sharing)
+- [Mini-Project Team - BCT](https://github.com/KCE/C/blob/master/Mini_Project_Team_BCT.pdf)
+- [Mini-Project Team - BEL](https://github.com/KCE/C/blob/master/Mini_Project_Team_BEL.pdf)
 - Mini-Project Proposal Defense Date & Team Detail
-- Project Name & Team Member
 - Mini-Project Proposal Defense - Marks
 - [Project Report Format](https://drive.google.com/file/d/1EdgNBNvSogAdGpSETENOCaqPf_zmEEuv/view?usp=sharing)
 
