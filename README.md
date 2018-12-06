@@ -48,6 +48,10 @@ Computer Programming **Labsheets**
 - [Project Proposal Format](https://drive.google.com/file/d/11KNobMxoK8ZKB7KVQtDs2XODqlxrJpbb/view?usp=sharing)
 - [Mini-Project Team - BCT](https://github.com/KCE/C/blob/master/Mini_Project_Team_BCT.pdf)
 - [Mini-Project Team - BEL](https://github.com/KCE/C/blob/master/Mini_Project_Team_BEL.pdf)
+- [Proposal Format](https://drive.google.com/file/d/1hW2ivtfwjxNxQ09_eKIHQqZtGUK9U9LX/view?usp=sharing)
+- [Proposal Sample](https://drive.google.com/file/d/1I_c2ICOGeGwBkW0tCM_f3v0Z2TBRlIB3/view?usp=sharing)
+- [Presentation Format](https://drive.google.com/file/d/1zIPpnIvtOX3uGDxn_Xl5Zq408kBy_5JV/view?usp=sharing)
+- [Presentation Sample](https://drive.google.com/file/d/1aMDTYm-qgx-PZSj-jidrMokG2iQyBhFH/view?usp=sharing)
 - Mini-Project Proposal Defense Date & Team Detail
 - Mini-Project Proposal Defense - Marks
 - [Project Report Format](https://drive.google.com/file/d/1EdgNBNvSogAdGpSETENOCaqPf_zmEEuv/view?usp=sharing)
