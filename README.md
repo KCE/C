@@ -36,6 +36,7 @@ Computer Programming **Labsheets**
 - [Labsheet#E1.1](https://github.com/KCE/C/blob/master/Labsheet_E1.1.pdf)
 - [Labsheet#E1.2](https://github.com/KCE/C/blob/master/Labsheet_E1.2.pdf)
 - [Labsheet#3](https://github.com/KCE/C/blob/master/Labsheet_3.pdf)
+- [Labsheet#3.2](https://github.com/KCE/C/blob/master/Labsheet_3.2.pdf)
 - Labsheet#4
 - Labsheet#5
 - Labsheet#6
