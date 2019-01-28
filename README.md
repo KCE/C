@@ -65,7 +65,7 @@ Computer Programming **Labsheets**
 - [First Assessment Result - BEL I/I](https://github.com/KCE/C/blob/master/C_1stA_BEL.pdf)
 - [C Language Video Tutorials - Mr. Srinivas](https://www.youtube.com/watch?v=si-KFFOW2gw&list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh)
 - [Online C Compiler](https://www.tutorialspoint.com/compile_c_online.php)
-- [C Compiler](https://drive.google.com/file/d/1-eYRHzm8VQVWHH7hs-ZxZ7iWLxC0jY6F/view?usp=sharing)
+- [C Compilers(Turbo C++/Dev C++)](https://drive.google.com/drive/folders/1m5-boSHxtAF4zzWgXlK5pEzyZDWv10uo?usp=sharing)
 - [FORTAN Compiler](https://drive.google.com/file/d/1B4kzcTUbM60qSxlhalj8kbIxItseH4H2/view?usp=sharing)
 - Data Files Program Questions
 - Final Internal Marks of C-Programming
