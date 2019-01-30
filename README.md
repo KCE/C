@@ -2,6 +2,8 @@
 
 **Contact Email:** c.khwopa@gmail.com or computer.khwopa@gmail.com
 
+ ![Version](https://img.shields.io/badge/version-2.0-blue.svg)
+
 Lecturer **Slides**
 - [Introduction to BCT](https://github.com/KCE/C/blob/master/BCT_Computer_Engineering.pdf)
 - [Introduction to BEL](https://github.com/KCE/C/blob/master/BEL_Electrical_Engineering.pdf)
