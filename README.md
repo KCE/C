@@ -9,17 +9,16 @@ Lecturer **Slides**
 - [Introduction to BEL](https://github.com/KCE/C/blob/master/BEL_Electrical_Engineering.pdf)
 - [Intoduction to C (Basic Touch)](https://github.com/KCE/C/blob/master/Introduction_to_C_Programming.pdf)
 - [Short History of Computing](https://github.com/KCE/C/blob/master/Short_History_of_Computing.pdf)
-- [Slide - Chapter 1](https://github.com/KCE/C/blob/master/Ch1_Overview_of_Computer_Software_and_Programming_Language.pdf)
 
-Computer Programming **Notes**
-- Chapter 1: Overview of Computer Software & Programming Languages
-- Chapter 2: Problem Solving Using Computer
-- Chapter 3: Introduction to C Programming
-- Chapter 4: Input and Output
-- Chapter 5: Control Statements
-- Chapter 6: User-Defined Functions
-- Chapter 7: Arrays and Strings
-- Chapter 8: Structures
+Computer Programming **Lecturer Slides**
+- Chapter 1: [Overview of Computer Software & Programming Languages](https://github.com/KCE/C/blob/master/Ch1_Overview_of_Computer_Software_and_Programming_Language.pdf)
+- Chapter 2: [Problem Solving Using Computer](https://github.com/KCE/C/blob/master/Ch2_Problem_Solving_Using_Computer.pdf)
+- Chapter 3: [Introduction to C Programming](https://github.com/KCE/C/blob/master/Ch3_Introduction_to_C_Programming.pdf)
+- Chapter 4: [Input and Output](https://github.com/KCE/C/blob/master/Ch4_Input_and_Output.pdf)
+- Chapter 5: [Control Statements](https://github.com/KCE/C/blob/master/Ch5_Control_Statements.pdf)
+- Chapter 6: [User-Defined Functions](https://github.com/KCE/C/blob/master/Ch6_User_Defined_Functions.pdf)
+- Chapter 7: [Arrays and Strings](https://github.com/KCE/C/blob/master/Ch7_Arrays_and_Strings.pdf)
+- Chapter 8: [Structures](https://github.com/KCE/C/blob/master/Ch8_Structures.pdf)
 - Chapter 9: Pointers
 - Chapter 10: Data Files
 - Chapter 11: Programming Language: FORTRAN
