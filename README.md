@@ -42,7 +42,7 @@ Computer Programming **Labsheets**
 - [Labsheet#4](https://github.com/KCE/C/blob/master/Labsheet_4.pdf)
 - [Labsheet#5](https://github.com/KCE/C/blob/master/Labsheet_5.pdf)
 - [Labsheet#6](https://github.com/KCE/C/blob/master/Labsheet_6.pdf)
-- Labsheet#7
+- [Labsheet#7](https://github.com/KCE/C/blob/master/Labsheet_7.pdf)
 - Labsheet#8
 - Labsheet#9
 - Labsheet#10
