@@ -27,7 +27,7 @@ Computer Programming **Notes**
 Computer Programming **Assignments**
 - [Assignment#1](https://github.com/KCE/C/blob/master/Assignment_1.pdf)
 - [Assignment#2](https://github.com/KCE/C/blob/master/Assignment_2.pdf)
-- Assignment#3
+- [Assignment#3](https://github.com/KCE/C/blob/master/Assignment_3.pdf)
 - Assignment#4
 
 Computer Programming **Labsheets**
