@@ -23,6 +23,9 @@ Computer Programming **Lecturer Slides**
 - Chapter 10: Data Files
 - Chapter 11: Programming Language: FORTRAN
 
+Programming Language: FORTRAN
+- [FORTRAN Note](https://github.com/KCE/C/blob/master/Chapter_11_Programming_Language_FORTAN_v2.pdf)
+
 Computer Programming **Assignments**
 - [Assignment#1](https://github.com/KCE/C/blob/master/Assignment_1.pdf)
 - [Assignment#2](https://github.com/KCE/C/blob/master/Assignment_2.pdf)
