@@ -19,9 +19,9 @@ Computer Programming **Lecturer Slides**
 - Chapter 6: [User-Defined Functions](https://github.com/KCE/C/blob/master/Ch6_User_Defined_Functions.pdf)
 - Chapter 7: [Arrays and Strings](https://github.com/KCE/C/blob/master/Ch7_Arrays_and_Strings.pdf)
 - Chapter 8: [Structures](https://github.com/KCE/C/blob/master/Ch8_Structures.pdf)
-- Chapter 9: Pointers
-- Chapter 10: Data Files
-- Chapter 11: Programming Language: FORTRAN
+- Chapter 9: [Pointers](https://github.com/KCE/C/blob/master/Ch9_Pointers.pdf)
+- Chapter 10: [Data Files](https://github.com/KCE/C/blob/master/Ch10_Data_Files.pdf)
+- Chapter 11: [Programming Language: FORTRAN](https://github.com/KCE/C/blob/master/Ch11_Programming_Language_FORTAN_v2.pdf)
 
 Programming Language: FORTRAN
 - [FORTRAN Note](https://github.com/KCE/C/blob/master/Chapter_11_Programming_Language_FORTAN_v2.pdf)
